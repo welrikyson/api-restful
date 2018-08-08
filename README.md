@@ -1,4 +1,4 @@
-# academy-store-api
+# api-rest
 
 Uma RESTFul API simples em Node JS com mongoDB, criada por [welrikyson felix](https://github.com/welrikyson), para Avaliação Bimestral 2 ministrada por Eder Martins Franco
 
@@ -6,7 +6,7 @@ Uma RESTFul API simples em Node JS com mongoDB, criada por [welrikyson felix](ht
 
 1) Clone ou baixe este repositório e, estando no diretório do projeto, abra o console: 
 `npm install`
-1) Start mongoDB
+1) Start mongoDB:
 `mongod`
 1) Para executar, estando no diretório do projeto, abra o console: 
 `npm start`
